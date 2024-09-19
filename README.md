@@ -1,2 +1,2 @@
 # Nikhil
-this is my profile
+This is my profile
